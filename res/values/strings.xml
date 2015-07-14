@@ -1,0 +1,49 @@
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+        <string name="login_label_username">帐号</string>  
+    <string name="login_label_password">密码</string>  
+    <string name="login_label_signin">登 录</string>  
+    <string name="login_status_logging_in">登录中...</string>  
+    <string name="login_username_hint">Email或手机号</string>  
+    <string name="login_register_link">没有帐号？ <a href="#" mce_href="#">注册</a></string>  
+    <string name="app_name">Hospital</string>
+    <string-array name="vegetable_Item">
+        <item>首页</item>
+        <item>查看</item>
+        <item>今天</item>
+        <item>统计</item>
+        <item>建议</item>
+        <item>退出</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    <string name="site">http://10.0.3.2/hospital/</string>
+    <string name="image">http://10.0.3.2/hospital/image/</string>
+    <string-array name="introuce">
+        <item >骨科学又称矫形外科学。是医学的一个专业或学科，专门研究骨骼肌肉系统的解剖、生理与病理，运用药物、手术及物理方法保持和发展这一系统的正常形态与功能，以及治疗这一系统的伤病。骨科学又称矫形外科学。是医学的一个专业或学科，专门研究骨骼肌肉系统的解剖、生理与病理，运用药物、手术及物理方法保持和发展这一系统的正常形态与功能，以及治疗这一系统的伤病</item>
+        <item>眼科的全称是“眼病专科”。眼科是研究发生在视觉系统，包括眼球及与其相关联的组织有关疾病的学科。</item>
+        <item>儿科是全面研究小儿时期身心发育、保健以及疾病防治的综合医学科学。凡涉及儿童和青少年时期的健康与卫生问题都属于儿科范围。其医治对象处于生长发育期。[1] 儿科学的任务是不断探索儿科医学理论，在实践的基础降低发病率、死亡率，增强儿童体质，提高儿童保健和疾病防治水平</item>
+       <item>鼻科是各大医院最常见的科室之一，主要研究鼻子及呼吸系统的解剖、生理与病理，运用药物、手术及物理方法保持和发展这一系统的正常形态与功能。随着时代和社会的变更，鼻科伤病谱有了明显的变化，例如，过敏性鼻炎、鼻窦炎、鼻息肉症等疾病大大减少，空气污染引起的创伤明显增多。鼻科伤病谱的变化，这就需要鼻科与时俱进了。 我国鼻科学的发展解放后，中国鼻科得到快速、巨大的发展，许多大城市的医学院附属医院、省市医院、解放军总部及各军区总医院，纷纷建立鼻科。</item>
+       <item>为临床科目之一。见《冷庐医话》。系专论治耳部疾。清初在江苏省苏州市养育巷，曾有专门从事耳科的中医。耳科在唐代时曾合并在耳目口齿科中。宋代始，耳目口齿科逐渐划若干独立的小科，参见耳目口齿科条。</item>
+       <item>手外科，指手部的外科学。手，是指腕部以远的部分，由腕部，手掌部及手指部构成；手的功能复杂，意义重大，是人类使用最为频繁，最为重要的的器官之一。手在人类的发展史上有极其重要的地位，手的劳动更是促进了人类的进步，促进了人类文明的发展。手的工作在人的一生中更始终伴随在左右，可以想象，没有双手的人是多么艰难。正因为手在人的劳动中使用的频率极高，所以手部受伤、患病的概率就相应的增高了，都需要外科来治疗。而手由于其结构的复杂，治疗难度大，手术要求的精度高，不能简单的对待，所以手外科学就应运而生了。</item>
+    
+    
+    </string-array>
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="点击按钮进行查看" />
+
+<RadioGroup 
+    android:id="@+id/select"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+    <RadioButton
+            android:id="@+id/de"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="部门" />
+
+    <RadioButton
+            android:id="@+id/geren"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="个人" />
+    
+</RadioGroup>
+        
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="120dp" 
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_launcher" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 android:padding="10dp"
+                android:text="XXXXXXX医院" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="科室：5个" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                 android:padding="10dp"
+                android:text="医生：20人" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+       
+        android:background="#00FF7F" 
+        android:minLines="18"
+        android:maxLines="20"
+        android:gravity="top"
+        android:text="山东大学齐鲁医院现系三级甲等综合医院，直属卫生部。山东大学齐鲁医院地处济南，毗邻趵突泉，办院环境优雅，医疗技术一流。山东大学齐鲁医院设有行政部门22个，检查治疗中心12个；现有高级专业技术人员570人，中级、初级专业技术人员1082人，其中，国家级、卫生部、山东省突出贡献专家11人，山东省专业技术拔尖人才23人。"
+        />
+
+</LinearLayout>
